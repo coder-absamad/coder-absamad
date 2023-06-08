@@ -1,2 +1,2 @@
-### Hi there 👋, my name is Abdus Samad
-#### I am MERN STACK web developer.
+### Hi, my name is Abdus Samad
+#### I am a MERN STACK web developer.
